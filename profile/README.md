@@ -34,6 +34,7 @@ We believe in giving back to the developer community. Check out our open-source 
 |---------|-------------|
 | [react-booking-widget](https://github.com/SoftAngeles/react-booking-widget) | 📅 Drop-in React booking component with calendar, time slots, and form |
 | [seo-audit-cli](https://github.com/SoftAngeles/seo-audit-cli) | 🔍 Command-line SEO audit tool — scan any website, get actionable score |
+| [website-monitor](https://github.com/SoftAngeles/website-monitor) | 🌐 Monitor website uptime, SSL expiry, and performance from the terminal |
 
 ## Tech Stack
 
